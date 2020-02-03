@@ -258,3 +258,12 @@ nav#bottom ul li {
 nav#bottom ul a {
    color: white;
 }
+
+table{
+   border: black solid 3px;
+   box-shadow: black 2px 2px 2px ;
+}
+
+tr{
+   border: black solid 1px;
+}
